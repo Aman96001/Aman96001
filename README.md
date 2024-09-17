@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on WhatsApp 
 - 📫 How to reach me 9816655330
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
 <!---
 Aman96001/Aman96001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
